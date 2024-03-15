@@ -1,0 +1,10 @@
+matplotlib==3.4.3
+rtree==0.9.7
+BTrees==4.9.2
+persistent==4.7.0
+transaction==3.4.0
+ZODB==5.6.0
+streamlit==0.88.0
+Cython==0.29.24
+setuptools==58.0.4
+multiprocessing==3.6.12
